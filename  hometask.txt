@@ -1,0 +1,5 @@
+В master присутствуют следующие комиты, которых нет в demo:
+1. Объединение веток boots_buttons hat buttons boots с master
+2. fix readme Andrew Khodzhakhanov 29.06.2016 в 2:29
+В демо есть комиты, которых нет в master:
+1. Объединение веток buttons и boots Andrew Khodzhakhanov 29.06.2016 в 2:29 и в 0:55
